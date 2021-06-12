@@ -1,0 +1,1 @@
+Como todos os arquivos fazem parte do package main, basta eles estarem no mesmo diretório para o programa principal conseguir acessar as funções declaradas em todos os arquivos .go
